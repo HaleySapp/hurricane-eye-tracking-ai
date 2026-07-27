@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# Large datasets and generated imagery
+data/raw/
+data/cropped/
+data/yolo_dataset/
+*.nc
+*.nc4
+
+# YOLO training output
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
