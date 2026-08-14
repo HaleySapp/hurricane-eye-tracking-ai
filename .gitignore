@@ -241,3 +241,16 @@ __pycache__/
 
 # Temporary files
 *.tmp
+
+# Tiled YOLO datasets / Label Studio exports
+data/label_images/
+data/yolo_export/
+data/yolo_tiled/
+data/yolo_tiled_split/
+
+# Generated Phase 4 outputs
+ML_PHASE4_OUTPUT_IAN_YOLO_ROI/
+results/
+
+# Local YOLO model weights
+*.pt
