@@ -1,0 +1,2 @@
+test_storm,split,test_tiles,eye_instances,background_tiles,precision,recall,map50,map50_95,full_disk_frames,full_disk_detected,full_disk_detection_rate,tracked_frames,tracking_coverage
+milton,test,156,78,78,0.833,0.615,0.675,0.275,39,34,87.2,34,87.2
