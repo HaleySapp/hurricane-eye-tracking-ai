@@ -1,0 +1,11 @@
+storm,total_frames,usable_target_frames,detected_frames,multi_candidate_frames,tracked_frames,raw_tracking_coverage,usable_frame_tracking_coverage,non_target_candidates_rejected,data_loss_target_frames,visual_review
+dorian,40,40,40,0,40,100.0,100.0,0,0,correct
+florence,40,40,40,40,40,100.0,100.0,46,0,correct
+ian,40,40,40,5,40,100.0,100.0,5,0,correct
+ida,40,40,40,1,40,100.0,100.0,1,0,correct
+iota,40,40,40,20,40,100.0,100.0,22,0,correct
+irma,38,38,38,7,38,100.0,100.0,9,0,correct
+lee,40,39,40,39,39,97.5,100.0,67,1,correct_with_data_loss
+maria,40,40,40,12,40,100.0,100.0,13,0,correct
+michael,40,40,40,13,40,100.0,100.0,16,0,correct
+milton,39,39,34,6,34,87.2,87.2,6,0,previously_visually_verified
